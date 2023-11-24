@@ -11,7 +11,7 @@ const router = express.Router();
 
 //auth check
 
-// router.use(requireAuth);
+router.use(requireAuth);
 
 router.get("/:id", getSingleFood);
 router.get("/category/:category", getCategory);
