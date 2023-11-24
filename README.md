@@ -60,6 +60,7 @@ The backend will be running on `http://localhost:4000` by default.
    - **Example Response:**
      ```json
      {
+       "name": "John Doe",
        "email": "example@example.com",
        "token": "<JWT Token>"
      }
@@ -79,7 +80,6 @@ The backend will be running on `http://localhost:4000` by default.
    - **Example Response:**
      ```json
      {
-       "name": "John Doe",
        "email": "john.doe@example.com",
        "token": "<JWT Token>"
      }
