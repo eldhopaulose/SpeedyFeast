@@ -18,7 +18,7 @@ This repository serves as the backend for the SpeedyFeast. It provides APIs to m
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/eldhopaulose/foodBackend.git
+     git clone https://github.com/eldhopaulose/foodBackend.git
    ```
 
 2. Install dependencies:
